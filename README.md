@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shbao6
+- 👋 Hi, I’m @shiqi bao
 - 👀 I’m interested in data science and data analytics
 - 🌱 I’m currently learning stats and ml
 - 💞️ I’m looking to collaborate on Kaggle project
