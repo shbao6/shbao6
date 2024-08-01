@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shiqi bao
 - 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning stats and ml
 - 💞️ I’m looking to collaborate on Kaggle projects
 - 📫 How to reach me - email me shiqibuaa@gmail.com
 
